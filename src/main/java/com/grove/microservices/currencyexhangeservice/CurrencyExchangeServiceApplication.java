@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexhangeservice;
+package com.grove.microservices.currencyexhangeservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexhangeservice;
+package com.grove.microservices.currencyexhangeservice;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package com.grove.microservices.springcloudconfigserver;
+package com.grove.microservices.currencyexhangeservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
